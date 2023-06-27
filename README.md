@@ -1,2 +1,2 @@
 # Invoice-Generator
-A minimalistic invoice generator developed using Github
+A minimalistic invoice generator developed using React Native.
